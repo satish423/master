@@ -97,7 +97,7 @@ public class LinkedList {
       } catch(IOException e) {
         System.out.println("IOException has occurred");
       } catch(Exception e) {
-        System.out.println("Exception has occurred");
+        System.out.println("Exception has occurred changed by satish");
       }
     }
   }
